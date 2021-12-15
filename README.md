@@ -4,7 +4,7 @@
 
 '빅데이터 기반 지능형 서비스 개발 과정' 최종프로젝트 3조 안전하조
 
-김범진 [김진영](onclick="location.href=') 박황미 장근영 
+[김범진](https://github.com/BijetK) [김진영](onclick="location.href=') 박황미 [장근영](https://github.com/GYoungJang) 
 
 [pdf](https://github.com/Jiiiiiiiiiiin/anjeonhajo/blob/master/3%EC%A1%B0_%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98_%EC%A0%9C%EC%B6%9C.pdf), [names](https://github.com/Jiiiiiiiiiiin/anjeonhajo/blob/master/yolov4/obj.names), [data](https://github.com/Jiiiiiiiiiiin/anjeonhajo/blob/master/yolov4/obj.data), [cfg](https://github.com/Jiiiiiiiiiiin/anjeonhajo/blob/master/yolov4/yolov4-custom.cfg) 파일
 
